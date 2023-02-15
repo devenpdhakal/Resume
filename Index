@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>Devendra DD</h1>
+    <img src="Devendra_pic.png" alt="Profile Picture of Devendra">
+    <p><em>Founder and CTO of <strong>Dhakal Tech</strong>.</em> </p>
+    <p><em> I am a 🎧 DevOps Engineer who likes to automate everything and work smartly!.</em></p>
+    <hr>
+      <a href="Experience.html">Work Experiences</a>
+      <br>
+      <a href="hobbies.html">Hobbies</a>
+      <br>
+      <a href="contact.html">Contact me</a>
+      <br>
+      <a href="country_visited.html">Country Visited</a>
+  </body>
+</html>
