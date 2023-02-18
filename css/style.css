@@ -1,15 +1,12 @@
 body {
     background-color: #E9F8F9;
 }
-
 h1 {
     color: #66BFBF;
 }
-
-h3 {
+h5 {
     color: #66BFBF;
 }
-
 hr { 
     border-style: none ;
     border-top-style: dotted;
