@@ -1,9 +1,8 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title> Devendra's Personal Site</title>
-    <link rel="stylesheet" href="css/style.css">
   </head>
+  <body style="background-color:#E9F8F9">
     <table cellspacing="20">
         <tr>
             <td><img src="image/Projects/Deven_Profile_pic.png" alt="Profile Picture of Devendra" width="150" height="150" ></td>
@@ -23,7 +22,7 @@
         </tr>
     </table>
     <hr>
-    <h5><a> <u>Projects</u></a></h5>
+    <a> <u>Projects</u></a>
     <br>
     <table>
         <thead>
@@ -54,7 +53,8 @@
     <a target="_blank" rel="noopener" href="image/Projects/Message_for_full_resume.pdf">Current Resume With Projects</a>
     <br>
     <hr>
-    <h5><a><u>Skills Matrix</u></a></h5>
+    <a><u>Skills Matrix</u></a>
+    <h5>
         <table>
             <tr>
                 <td>Operating Systems (Linux/Unix=> Rhel, CentOs, Oel, Ubuntu, Suse)</td>
@@ -102,15 +102,17 @@
                 <td>2+ Years</td>
             </tr>
         </table>
+    </h5>
     <hr>
-    <h5>
-    <a><u>Certifications</u></a></h5>
+    <a><u>Certifications</u></a>
+    <br>
     <a>Puppet Certified Professional    (2016, 2017)</a>
     <br>
     <a target="_blank" rel="noopener" href="https://www.credly.com/badges/bf1664a9-650e-4796-bf73-ea3bbc0b1ebf/public_url">AWS Certified Solution Architect - Associate    (2022)</a>
     <br>
     <a target="_blank" rel="noopener" href="https://www.credly.com/badges/9e6001c9-81a6-4b4a-a939-880aa08e5344/public_url">Azure Administrator Associate    (2022)</a>
     <br>
+    <hr>
       <br>
       <a target="_blank" rel="noopener" href="contact.html">Contact me</a>
       <br>
